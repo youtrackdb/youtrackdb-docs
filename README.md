@@ -31,7 +31,7 @@ Welcome to YouTrackDB, an entity store that combines the power of graphs with th
 - [Studio](src/studio/README.md) web tool
 - [YouTrackDB Server](src/internals/DB-Server.md)
 - [Network-Binary-Protocol](src/internals/Network-Binary-Protocol.md) 
-- [Continuous integration](https://youtrackdb.teamcity.com/)
+- [Continuous integration](https://youtrackdb.teamcity.com/project/YouTrackDB?guest)
 
  
 ### Resources
