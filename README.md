@@ -8,32 +8,29 @@ Welcome to YouTrackDB, an entity store that combines the power of graphs with th
 
 |Getting Started	|Main Topics    |Developers   |
 |-----------------------|---------------|-------------|
-|[Introduction to YouTrackDB](introduction/README.md) | [Basic Concepts](datamodeling/Concepts.md)  | [SQL](sql/README.md)| 
-|[Installation](gettingstarted/Tutorial-Installation.md) | [Supported Data Types](general/Types.md) | [HTTP API](misc/OrientDB-REST.md) | 
-|[First Steps](gettingstarted/Tutorial-Working-with-graphs.md) | [Inheritance](general/Inheritance.md) | [Java API](java/Java-API.md) |
-|[Security Guide](security/OrientDB-Security-Guide.md)|[Security](security/Security.md)| [NodeJS](orientjs/OrientJS.md) |
-| | [Indexes](indexing/Indexes.md) | [ACID Transactions](internals/Transactions.md) |
-| | [Functions](admin/Functions.md) | [Network Binary Protocol](internals/Network-Binary-Protocol.md) |
-| | [Caching Levels](internals/Caching.md) | [Javadocs]() |
-| | [Common Use Cases](legacy/Use-Cases.md) | | 
+|[Introduction to YouTrackDB](src/introduction/README.md) | [Basic Concepts](src/datamodeling/Concepts.md)  | [SQL](src/sql/README.md)| 
+|[Installation](src/gettingstarted/Tutorial-Installation.md) | [Supported Data Types](src/general/Types.md) | [HTTP API](src/misc/OrientDB-REST.md) | 
+|[First Steps](src/gettingstarted/Tutorial-Working-with-graphs.md) | [Inheritance](src/general/Inheritance.md) | [Java API](src/java/Java-API.md) |
+|[Security Guide](src/security/OrientDB-Security-Guide.md)|[Security](src/security/Security.md)| [NodeJS](src/orientjs/OrientJS.md) |
+| | [Indexes](src/indexing/Indexes.md) | [ACID Transactions](src/internals/Transactions.md) |
+| | [Functions](src/admin/Functions.md) | [Network Binary Protocol](src/internals/Network-Binary-Protocol.md) |
+| | [Caching Levels](src/internals/Caching.md) | [Javadocs]() |
 
 
 ### Operations
 
-- [Installation](gettingstarted/Tutorial-Installation.md)
-- [Upgrade](release/Upgrade.md) 
-- [Configuration](admin/Configuration.md)
-- [Performance Tuning](tuning/Performance-Tuning.md)
-- [Backup and Restore](admin/Backup-and-Restore.md)
-- [Export and Import](admin/Export-and-Import.md)
+- [Installation](src/gettingstarted/Tutorial-Installation.md)
+- [Configuration](src/admin/Configuration.md)
+- [Backup and Restore](src/admin/Backup-and-Restore.md)
+- [Export and Import](src/admin/Export-and-Import.md)
 
 
 ### Quick References 
 
-- [Console](console/README.md)
-- [Studio](studio/README.md) web tool
-- [YouTrackDB Server](internals/DB-Server.md)
-- [Network-Binary-Protocol](internals/Network-Binary-Protocol.md) 
+- [Console](src/console/README.md)
+- [Studio](src/studio/README.md) web tool
+- [YouTrackDB Server](src/internals/DB-Server.md)
+- [Network-Binary-Protocol](src/internals/Network-Binary-Protocol.md) 
 - [Continuous integration](https://youtrackdb.teamcity.com/)
 
  
