@@ -1,3 +1,0 @@
-# Code conventions
-
-## DRAFT
